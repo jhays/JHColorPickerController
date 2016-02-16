@@ -36,7 +36,7 @@ To run the example project, clone the repo, and run `pod install` from the Examp
   self.presentViewController(UINavigationController(rootViewController: colorPickerController), animated: true, completion: nil)
 ```
 ## Requirements
-iOS 8+, XCode 7+
+iOS 8+, Xcode 7+
 
 (Included via pod dependency):
 * ChameleonFramework
